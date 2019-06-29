@@ -1,6 +1,6 @@
 # Climb On
 
-A site for users to search for climbing routes.
+Climb on is an application that allows a user to search the Colorado area for a place to climb, an area to climb, and a route to climb. It allows a user to sort routes by routes by difficulty or type of climbing available. 
 
 ## About
 
@@ -29,3 +29,14 @@ Clone the project at https://github.com/jarrettkong/climb-on, and run `npm insta
 - Allow users to choose which category to search by.
 - Allow users to leave reviews on each route.
 - Responsive design
+
+## Contributers
+
+[Ryan Barnett](https://github.com/RyanDBarnett)
+
+[Lauren Boyer](https://github.com/lboyer4)
+
+[Michael King-Stockton](https://github.com/KStockton)
+
+[Jarret Kong](https://github.com/jarrettkong)
+
