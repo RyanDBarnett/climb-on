@@ -1,6 +1,6 @@
 # Climb On
 
-Climb on is an application that allows a user to search the Colorado area for a place to climb, an area to climb, and a route to climb. It allows a user to sort routes by routes by difficulty or type of climbing available. 
+Climb on is an application that allows a user to search the Colorado area for a place to climb, an area to climb, and a route to climb. It allows a user to sort routes by difficulty or type of climbing available. 
 
 ## About
 
