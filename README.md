@@ -18,7 +18,7 @@ Custom climbing places and routes datasets hosted on the Turing School servers.
 
 ## Installation
 
-Clone the project at https://github.com/jarrettkong/climb-on, and run `npm install` in the directory to install all necessary dependencies. From there, use `npm start` to start the program. Navigate to `localhost:3000` and you can start using.
+Clone the project at https://github.com/lboyer4/climb-on.git, and run `npm install` in the directory to install all necessary dependencies. From there, use `npm start` to start the program. Navigate to `localhost:3000` and you can start using.
 
 ## Next Features
 
